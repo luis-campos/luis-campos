@@ -1,8 +1,6 @@
 
 ![Luis Campos TV](https://github.com/user-attachments/assets/8a21a7b3-90d2-4325-8759-cdaa6df1dc13)
 
-<img src="https://raw.githubusercontent.com/luis-campos/luis-campos/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
